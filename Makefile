@@ -4,6 +4,7 @@ all: build run
 
 build:
 	@echo "Building the project..."
+	// note for athif, comment line 8 & 9 if you run make build again.
 	python -m pip install swig
 	python -m pip install poetry
 	python -m venv .venv
