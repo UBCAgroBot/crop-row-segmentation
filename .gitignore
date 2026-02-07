@@ -11,3 +11,4 @@ poetry.lock
 # Project files
 models/
 data/
+best_unet.pth
